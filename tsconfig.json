@@ -22,6 +22,10 @@
       "ES6", "DOM"
     ]
   },
+  "files": [
+    "src/main.ts",
+    "src/polyfills.ts"
+  ],
   "angularCompilerOptions": {
     "enableI18nLegacyMessageIdFormat": false,
     "strictInjectionParameters": true,
